@@ -1,0 +1,7 @@
+The divisive top-down clustering approach works by dividing the point set into two clusters and recursing.
+This program takes the distance matrix in pickle format and returns the clusters formed at each iteration.
+
+Input: Distance matrix of the point set(pkl file) and Level l.
+Output: Top-down clustering and clusters at level l. WSS values are also printed with the clusters.
+
+Instructions: Run using python3 only, Enter the level.

@@ -1,0 +1,9 @@
+Input - min,max,av as a metric
+Output - A graph showing WSS variation with number of clusters
+
+dist_cluster - Takes two clusters as input along with metric 'min', 'max', 'av' and it finds distance
+between those two clusters
+
+WSS - Takes in one cluster and gives out a WSS as output
+
+An iteration will take two clusters which are closest according to the metric and merges them into one. It calculates WSS for specific number of clusters along the way and finally plots a graph.

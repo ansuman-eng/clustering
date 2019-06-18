@@ -1,0 +1,2 @@
+Input: Distance matrix
+Output: Centroids and clusters with the wss value.
